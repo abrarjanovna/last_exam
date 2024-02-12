@@ -1,0 +1,31 @@
+{
+  "Index": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "education": "Education",
+    "contact": "Contact",
+    "frontend": "Frontend developer",
+    "hi": "Hi,",
+    "i_am": "I'm",
+    "Sevara": "Sevara",
+    "some": "I have more than 1 year of programming experience.",
+    "resume": "Resume",
+    "about_me": "about me",
+    "first": "Now I study in the 10th grade of school. I chose it because of my interest in IT field. I am a student of",
+    "second": "At first I studied in the FullStack group, then this group was closed for some reason. After that I started training in Frontend ReactJS group.",
+    "third": "My favorite part of programming is the problem solving aspect)",
+    "last": "And another favorite part is finishing the task)))",
+    "my_projects": "My Projects",
+    "namoz_vaqti": "Prayer times",
+    "definition": "In this project you can see the prayer times of all regions in Uzbekistan. this data comes from the API.",
+    "cv": "You can also see this project in the resume.",
+    "second_definition": "In this project, you can see store statistics, customers, information about them, list of exchanges, settings, promotions.",
+    "my_skills": "My skills",
+    "contact_me": "Contact me",
+    "gmail": "Enter your email...",
+    "message": "Enter your message...",
+    "submit": "Submit"
+  }
+}

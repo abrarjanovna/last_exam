@@ -1,0 +1,31 @@
+{
+  "Index": {
+    "home": "Uy",
+    "about": "Men",
+    "projects": "Loyihalar",
+    "skills": "Ko'nikmalar",
+    "education": "Ta'lim",
+    "contact": "Aloqa",
+    "frontend": "Frontend dasturchi",
+    "hi": "Salom",
+    "i_am": "Men",
+    "Sevara": "Sevaraman",
+    "some": "Menda 1 yildan ortiq dasturlash tajribasi bor.",
+    "resume": "Rezyume",
+    "about_me": "Men haqimda",
+    "first": "Hozir maktabning 10-sinfida o‘qiyman. IT sohasiga qiziqishim tufayli uni tanladim.",
+    "second": "ning talabasiman. Avvaliga FullStack guruhida tahsil oldim, keyin bu guruh negadir yopildi. Shundan so'ng men Frontend ReactJS guruhida o'qishni boshladim.",
+    "third": "Dasturlashning eng sevimli qismi bu muammoni hal qilish jihati)",
+    "last": "Va yana bir sevimli qismi - berilgan vazifani to'liq bajarish)))",
+    "my_projects": "Mening loyihalarim",
+    "namoz_vaqti": "Namoz vaqtlari",
+    "definition": "Ushbu loyihada O'zbekistondagi barcha viloyatlarning namoz vaqtlarini ko'rishingiz mumkin. Bu ma'lumotlar API'dan keladi.",
+    "cv": "Ushbu loyihani rezyumeda ham ko'rishingiz mumkin.",
+    "second_definition": "Ushbu loyihada siz do'kon statistikasi, mijozlar, ular haqidagi ma'lumotlar, sozlamalar, aksiyalarni ko'rishingiz mumkin.",
+    "my_skills": "Mening ko'nikmalarim",
+    "contact_me": "Men bilan bog'laning",
+    "gmail": "Elektron pochtangizni kiriting...",
+    "message": "Xabaringizni kiriting...",
+    "submit": "Jo'natish"
+  }
+}

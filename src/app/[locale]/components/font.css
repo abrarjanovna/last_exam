@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+.font {
+  font-family: "Dancing Script";
+}
+
+.font2 {
+  font-family: "Caveat";
+}
+
+.fonts {
+  font-family: "Anek Bangla";
+}
+
+.f {
+  font-family: "Roboto";
+}
