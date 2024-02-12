@@ -1,21 +1,14 @@
 "use client";
 
 import Link from "next/link";
-import { useSectionInView } from "@/lib/hooks";
 import { motion } from "framer-motion";
 import { PiTelegramLogo } from "react-icons/pi";
 import { GrInstagram } from "react-icons/gr";
 import { FiGithub } from "react-icons/fi";
 
 export default function Footer() {
-  const { ref } = useSectionInView("Home");
-
   return (
-    <footer
-      ref={ref}
-      id="home"
-      className="mb-10 px-4 text-center text-gray-500"
-    >
+    <footer id="footer" className="mb-10 px-4 text-center text-gray-500">
       <motion.div
         className="flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium"
         initial={{ opacity: 0, y: 100 }}
